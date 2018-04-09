@@ -1,0 +1,12 @@
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\bin\Debug\netcoreapp2.0\AvanzadaAvellanas.deps.json
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\bin\Debug\netcoreapp2.0\AvanzadaAvellanas.runtimeconfig.json
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\bin\Debug\netcoreapp2.0\AvanzadaAvellanas.runtimeconfig.dev.json
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\bin\Debug\netcoreapp2.0\AvanzadaAvellanas.dll
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\bin\Debug\netcoreapp2.0\AvanzadaAvellanas.pdb
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\AvanzadaAvellanas.csprojResolveAssemblyReference.cache
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\AvanzadaAvellanas.csproj.CoreCompileInputs.cache
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\AvanzadaAvellanas.AssemblyInfoInputs.cache
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\AvanzadaAvellanas.AssemblyInfo.cs
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\AvanzadaAvellanas.dll
+C:\Users\jesma\Desktop\AvanzadaAvellanas\AvanzadaAvellanas\obj\Debug\netcoreapp2.0\AvanzadaAvellanas.pdb
